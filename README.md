@@ -59,14 +59,6 @@ AI • Embedded Systems • IoT • Cloud • Smart Technologies
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shelinekv&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelinekv&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 📧 Email: shelinekv9@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/shelinekv  
