@@ -10,17 +10,19 @@ Engineering intelligent systems that connect hardware, AI, and cloud to solve re
 ---
 
 ## 👩‍💻 About Me
-ECE graduate passionate about building **intelligent, connected, real-world systems** using Embedded Systems, AI, IoT, and Smart Technologies.
+Electronics and Communication Engineering graduate passionate about building **intelligent, connected, real-world systems** using Embedded Systems, Artificial Intelligence, IoT, and Smart Technologies.  
+Focused on creating scalable, practical, and impactful engineering solutions that bridge hardware and software.
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Core Domains
 - Embedded Systems  
 - Artificial Intelligence  
 - Machine Learning  
-- IoT  
-- Smart Healthcare  
-- Cloud Integration  
+- Internet of Things (IoT)  
+- Smart Healthcare Systems  
+- Intelligent Automation  
+- Cloud-Connected Systems  
 
 ---
 
@@ -28,27 +30,58 @@ ECE graduate passionate about building **intelligent, connected, real-world syst
 **Languages:** Python, C, Embedded C  
 **AI/ML:** TensorFlow, Keras, OpenCV, CNN  
 **Embedded:** ESP32, Arduino, Sensors  
-**Cloud/Web:** Firebase, React, JS, HTML, CSS  
+**Cloud/Web:** Firebase, React, JavaScript, HTML, CSS  
 
 ---
 
 ## 🔥 Flagship Project
-### Multimodal Stress Detection & Intervention System  
-AI + IoT based real-time stress detection using facial emotion recognition and physiological sensing.
+### 🌿 Multimodal Stress Detection & Intervention System  
+An **AI + IoT based real-time stress detection system** using facial emotion recognition and physiological sensing, integrating AI models, embedded devices, cloud storage, and real-time monitoring for intelligent stress analysis.
+
+🔐 Full documentation available via **private access** (on request).
+
+---
+
+## 📁 Project Portfolio
+- Multimodal Stress Detection System  
+- AI-based Emotion Recognition  
+- IoT Health Monitoring Systems  
+- Embedded AI Applications  
+- Smart Sensing Systems  
+- Machine Learning Models  
+- Cloud-Integrated Systems  
+
+---
+
+## 🎯 Engineering Vision
+To design and build **intelligent systems that improve human life** by combining  
+AI • Embedded Systems • IoT • Cloud • Smart Technologies
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=shelinekv&show_icons=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shelinekv&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shelinekv&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelinekv&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 📧 Email: shelinekv9@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/shelinekv  
+💼 LinkedIn: https://www.linkedin.com/in/shelinekv  
+💻 GitHub: https://github.com/shelinekv  
 
 ---
 
-## 🎯 Vision
-To build intelligent systems that improve human life using AI + Embedded + IoT.
+## 🛡️ Professional Focus
+- Real-world engineering solutions  
+- Research-oriented development  
+- Industry-ready systems  
+- Scalable architectures  
+- Secure system design  
+- Ethical AI development  
+
+---
+
+⭐ Building the future with **AI + Embedded + IoT**
